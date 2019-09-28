@@ -1,4 +1,4 @@
-def Dog
+class Dog
   fido = Dog.new
   fido
   snoopy = Dog.new
